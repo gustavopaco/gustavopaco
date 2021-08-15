@@ -1,5 +1,5 @@
-### 👋 Olá, eu sou o Gustavo. Bem vindo ao meu git!
-
+### Olá, eu sou o Gustavo. Bem vindo ao meu git!
+##
 <div>
   <a href="https://github.com/gustavopaco">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=gustavopaco&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
