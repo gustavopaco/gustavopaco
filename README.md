@@ -44,7 +44,7 @@
 ##
 
 <div> 
-  <a href = "mailto:gustavopaco@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-c?style=for-the-badge&logo=gmail&labelColor=424242&color=424242"></a>
+  <a href = "mailto:gustavopaco@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-c?style=for-the-badge&logo=gmail&labelColor=424242&color=424242" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-paco-99977520b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   ![Snake animation](https://github.com/gustavopaco/gustavopaco/blob/output/github-contribution-grid-snake.svg)
