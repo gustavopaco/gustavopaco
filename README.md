@@ -21,6 +21,8 @@
   <img align="center" alt="Gustavo-Typescript" title="Typescript" src="https://img.shields.io/badge/Typescript-content?logo=typescript&logoColor=FFFFFF&labelColor=0D61A9&color=0D61A9">
   <img align="center" alt="Gustavo-HTML" title="HTML5" src="https://img.shields.io/badge/HTML5-content?logo=html5&logoColor=FFFFFF&labelColor=E65100&color=E65100">
   <img align="center" alt="Gustavo-CSS" title="CSS3" src="https://img.shields.io/badge/CSS3-content?logo=css3&logoColor=FFFFFF&labelColor=0277BD&color=0277BD">
+  <img align="center" alt="Gustavo-SASS" title="SASS" src="https://img.shields.io/badge/SASS-content?logo=sass&logoColor=FFFFFF&labelColor=F06292&color=F06292">
+
   <br><br>
   <span>Database: </span>
   <img align="center" alt="Gustavo-PostgreSQL" title="PostgreSQL" src="https://img.shields.io/badge/PostreSQL-content?logo=postgresql&logoColor=FFFFFF&labelColor=0277BD&color=0277BD">
